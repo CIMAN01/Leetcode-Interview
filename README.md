@@ -1,9 +1,9 @@
 # Leetcode-styled Interview Problems covering topics such as:
 
-- Sliding Window
+- Sliding Window Pattern
 
 - Two pointer technique
 
-- Fast/Slower pointer 
+- Fast/Slower pointers 
 
 - And many more...
