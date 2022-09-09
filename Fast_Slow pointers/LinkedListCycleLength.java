@@ -34,7 +34,7 @@ class LinkedListCycleLength {
 
 
     public static void main(String[] args) {
-        // assign values
+        // create a LinkedList and assign values to it
         ListNode head = new ListNode(1);
         ////////////////////////////////////
         head.next = new ListNode(2);
